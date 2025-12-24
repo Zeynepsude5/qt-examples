@@ -1,0 +1,20 @@
+# Qt Creator
+*.pro.user
+*.user
+*.autosave
+
+# Build folders
+build-*/
+build/
+
+# Object / binary
+*.o
+*.obj
+*.so
+*.a
+*.exe
+
+# Qt generated
+moc_*
+ui_*
+qrc_*
