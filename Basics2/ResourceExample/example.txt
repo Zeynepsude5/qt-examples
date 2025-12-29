@@ -1,0 +1,2 @@
+This is an example file.
+It is embedded into the application using Qt Resources.
